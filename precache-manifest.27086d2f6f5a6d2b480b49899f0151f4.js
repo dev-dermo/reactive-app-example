@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1a3ae0bfce8712eaa8c5bd2feaf2b067",
+    "revision": "d530a8e562dca4988d072f73ff2f43c5",
     "url": "/teachee-reactive/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/teachee-reactive/static/css/2.af3c1da9.chunk.css"
   },
   {
-    "revision": "1ef3bdac94e258d2e3ec",
+    "revision": "ddcb1b74a07413efcf8d",
     "url": "/teachee-reactive/static/css/main.e4aa857f.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/teachee-reactive/static/js/2.50b314bf.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "1ef3bdac94e258d2e3ec",
-    "url": "/teachee-reactive/static/js/main.4366ab42.chunk.js"
+    "revision": "ddcb1b74a07413efcf8d",
+    "url": "/teachee-reactive/static/js/main.f45e56b1.chunk.js"
   },
   {
     "revision": "073191ac24eb9da3c668",
