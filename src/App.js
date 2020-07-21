@@ -22,8 +22,8 @@ function App() {
     <Container>
       <Router>
         <Switch>
-          <Route exact path='/call' component={Call} />
-          <Route path='*' component={Home} />
+          <Route exact path={process.env.PUBLIC_URL + '/call'} component={Call} />
+          <Route path={process.env.PUBLIC_URL + '*'} component={Home} />
         </Switch>
       </Router>
     </Container>

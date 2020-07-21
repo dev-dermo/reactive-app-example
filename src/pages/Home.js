@@ -11,7 +11,7 @@ function Home() {
 					<p>The button below will use React Router to direct the user to <code>/call</code>,<br />
 					which in turn will load the relevant component without any requests being sent from the page.</p>
 					
-					<Link className='btn btn-info' to="call">JOIN</Link>
+					<Link className='btn btn-info' to={process.env.PUBLIC_URL + '/call'}>JOIN</Link>
 				</Jumbotron>
 			</Col>
 		</Row>

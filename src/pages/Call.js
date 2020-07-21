@@ -78,7 +78,7 @@ class Call extends React.Component {
 							</Row>
 							
 							<div>
-								<Link to='/'>Back to Home</Link>
+								<Link to={process.env.PUBLIC_URL + '/'}>Back to Home</Link>
 							</div>
 						</Jumbotron>
 					</Col>
