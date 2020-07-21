@@ -73,7 +73,7 @@ class Call extends React.Component {
 								<Col lg={6}>
 									<h3>Canvas Element</h3>
 									<canvas ref={this.canvas} style={{ width: '100%', height: 'auto' }}></canvas>
-									<p>This is a <code>canvas</code> element being recursively 'painted' to from the video.</p>
+									<p>This is a <code>canvas</code> element being recursively 'painted' from the video.</p>
 								</Col>
 							</Row>
 							
