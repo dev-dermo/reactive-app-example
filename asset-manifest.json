@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/teachee-reactive/static/css/main.e4aa857f.chunk.css",
-    "main.js": "/teachee-reactive/static/js/main.2fa5e2f4.chunk.js",
-    "main.js.map": "/teachee-reactive/static/js/main.2fa5e2f4.chunk.js.map",
+    "main.js": "/teachee-reactive/static/js/main.eff0c41d.chunk.js",
+    "main.js.map": "/teachee-reactive/static/js/main.eff0c41d.chunk.js.map",
     "runtime-main.js": "/teachee-reactive/static/js/runtime-main.9343fcac.js",
     "runtime-main.js.map": "/teachee-reactive/static/js/runtime-main.9343fcac.js.map",
     "static/css/2.af3c1da9.chunk.css": "/teachee-reactive/static/css/2.af3c1da9.chunk.css",
     "static/js/2.50b314bf.chunk.js": "/teachee-reactive/static/js/2.50b314bf.chunk.js",
     "static/js/2.50b314bf.chunk.js.map": "/teachee-reactive/static/js/2.50b314bf.chunk.js.map",
     "index.html": "/teachee-reactive/index.html",
-    "precache-manifest.094c53890525db2bf75ef045b338438a.js": "/teachee-reactive/precache-manifest.094c53890525db2bf75ef045b338438a.js",
+    "precache-manifest.a501c9f4909e99377e16d76760fdb0bb.js": "/teachee-reactive/precache-manifest.a501c9f4909e99377e16d76760fdb0bb.js",
     "service-worker.js": "/teachee-reactive/service-worker.js",
     "static/css/2.af3c1da9.chunk.css.map": "/teachee-reactive/static/css/2.af3c1da9.chunk.css.map",
     "static/css/main.e4aa857f.chunk.css.map": "/teachee-reactive/static/css/main.e4aa857f.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.af3c1da9.chunk.css",
     "static/js/2.50b314bf.chunk.js",
     "static/css/main.e4aa857f.chunk.css",
-    "static/js/main.2fa5e2f4.chunk.js"
+    "static/js/main.eff0c41d.chunk.js"
   ]
 }
