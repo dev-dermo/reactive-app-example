@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/teachee-reactive/precache-manifest.900d5ae314980faa7367e4ba2af5f74c.js"
+  "/teachee-reactive/precache-manifest.a9d1c9624750751709ee66bd75502fff.js"
 );
 
 self.addEventListener('message', (event) => {
