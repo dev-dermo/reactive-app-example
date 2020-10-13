@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/teachee-reactive/static/css/main.e4aa857f.chunk.css",
-    "main.js": "/teachee-reactive/static/js/main.eff0c41d.chunk.js",
-    "main.js.map": "/teachee-reactive/static/js/main.eff0c41d.chunk.js.map",
-    "runtime-main.js": "/teachee-reactive/static/js/runtime-main.9343fcac.js",
-    "runtime-main.js.map": "/teachee-reactive/static/js/runtime-main.9343fcac.js.map",
-    "static/css/2.af3c1da9.chunk.css": "/teachee-reactive/static/css/2.af3c1da9.chunk.css",
-    "static/js/2.50b314bf.chunk.js": "/teachee-reactive/static/js/2.50b314bf.chunk.js",
-    "static/js/2.50b314bf.chunk.js.map": "/teachee-reactive/static/js/2.50b314bf.chunk.js.map",
-    "index.html": "/teachee-reactive/index.html",
-    "precache-manifest.a501c9f4909e99377e16d76760fdb0bb.js": "/teachee-reactive/precache-manifest.a501c9f4909e99377e16d76760fdb0bb.js",
-    "service-worker.js": "/teachee-reactive/service-worker.js",
-    "static/css/2.af3c1da9.chunk.css.map": "/teachee-reactive/static/css/2.af3c1da9.chunk.css.map",
-    "static/css/main.e4aa857f.chunk.css.map": "/teachee-reactive/static/css/main.e4aa857f.chunk.css.map",
-    "static/js/2.50b314bf.chunk.js.LICENSE.txt": "/teachee-reactive/static/js/2.50b314bf.chunk.js.LICENSE.txt"
+    "main.css": "/reactive-app-example/static/css/main.e4aa857f.chunk.css",
+    "main.js": "/reactive-app-example/static/js/main.c9cadb3c.chunk.js",
+    "main.js.map": "/reactive-app-example/static/js/main.c9cadb3c.chunk.js.map",
+    "runtime-main.js": "/reactive-app-example/static/js/runtime-main.f20fc536.js",
+    "runtime-main.js.map": "/reactive-app-example/static/js/runtime-main.f20fc536.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/reactive-app-example/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.50b314bf.chunk.js": "/reactive-app-example/static/js/2.50b314bf.chunk.js",
+    "static/js/2.50b314bf.chunk.js.map": "/reactive-app-example/static/js/2.50b314bf.chunk.js.map",
+    "index.html": "/reactive-app-example/index.html",
+    "precache-manifest.48a51dc1ec07d191deaf136e7fdfde7a.js": "/reactive-app-example/precache-manifest.48a51dc1ec07d191deaf136e7fdfde7a.js",
+    "service-worker.js": "/reactive-app-example/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/reactive-app-example/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.e4aa857f.chunk.css.map": "/reactive-app-example/static/css/main.e4aa857f.chunk.css.map",
+    "static/js/2.50b314bf.chunk.js.LICENSE.txt": "/reactive-app-example/static/js/2.50b314bf.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.9343fcac.js",
+    "static/js/runtime-main.f20fc536.js",
     "static/css/2.af3c1da9.chunk.css",
     "static/js/2.50b314bf.chunk.js",
     "static/css/main.e4aa857f.chunk.css",
-    "static/js/main.eff0c41d.chunk.js"
+    "static/js/main.c9cadb3c.chunk.js"
   ]
 }
